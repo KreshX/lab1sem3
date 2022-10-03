@@ -45,14 +45,5 @@
     "full_image": "full_2.jpeg",
     "shortDesc": "Phasellus non laoreet turpis.",
     "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus non laoreet turpis. Donec vitae ex vitae lectus euismod sollicitudin. Ut varius vestibulum tortor quis tincidunt. Nullam laoreet, diam a tempus sagittis, neque sem dictum urna, sed congue lacus massa in massa. Curabitur hendrerit venenatis diam, et pretium purus sodales at. Vestibulum laoreet ut tellus ac faucibus. Fusce dictum lobortis lacus, ac bibendum lorem sagittis nec. Praesent vel posuere mi, a ultrices nisi. Morbi egestas quis mauris id viverra. Ut lacus enim, vulputate vitae consectetur faucibus, sollicitudin eu nisl. Proin mollis tincidunt pulvinar. Pellentesque diam elit, finibus id risus in, aliquet accumsan tellus."
-  },
-  {
-    "id": 6,
-    "date": "02.10.2021",
-    "name": "Curabitur nec suscipit lorem",
-    "preview_image": "preview.jpg",
-    "full_image": "full.jpeg",
-    "shortDesc": "Duis sit amet ligula hendrerit, mattis libero vel, facilisis nisi",
-    "desc": "Curabitur nec suscipit lorem. Duis sit amet ligula hendrerit, mattis libero vel, facilisis nisi. Maecenas et urna fermentum, hendrerit quam sed, malesuada velit. Fusce ut nisi varius, sodales tortor in, viverra tellus. Quisque faucibus consectetur volutpat. Donec tincidunt massa justo, vel euismod orci dignissim nec. Sed quis aliquet leo. Duis efficitur eu neque eget congue. Aliquam vehicula interdum ante non sollicitudin. Nam efficitur, nulla vel blandit vehicula, augue justo convallis dui, et bibendum purus dui ac odio. Duis scelerisque elementum felis, sit amet condimentum nibh pellentesque vitae. Mauris sollicitudin vitae mi a sagittis. Proin ac interdum enim."
   }
 ]
